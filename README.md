@@ -34,3 +34,7 @@ It is a good option to install some other packages as well which we will need th
 Ensure whatever environment you are working in, is activated and then start Jupyter Lab.
 
     jupyter lab
+
+View these notebooks at [nbviewer](https://nbviewer.jupyter.org/github/Fengzi21/astropy-tutorial/tree/master/).   
+
+Watch the tutorial video at [YouTube](https://www.youtube.com/watch?v=29KFI0_PgoE&t=35s).
